@@ -1,0 +1,14 @@
+
+.main_body .header{
+	padding-top: 10px;
+}
+.main_body .menu{
+	padding-bottom: 15px;
+}
+.add_body .add_input{
+	padding-bottom: 30px;
+}
+
+.add_body .panel-body{
+	padding-top: 25px;
+}
